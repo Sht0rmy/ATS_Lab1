@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Vow/CLionProjects/Lab_Hashing/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+assert.h
+-
+fstream
+-
+string.h
+-
+stdio.h
+-
+
